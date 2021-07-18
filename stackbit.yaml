@@ -1,0 +1,169 @@
+stackbitVersion: ~0.3.0
+ssgName: hugo
+publishDir: public
+dataDir: data
+pagesDir: content
+assets:
+  referenceType: static
+  staticDir: static
+  uploadDir: assets
+  publicPath: /
+models:
+  amp_modules:
+    type: data
+    label: Amp Modules
+    file: amp-modules.json
+    fields:
+      - type: string
+        name: amp-core
+        label: Amp Core
+      - type: string
+        name: amp-access
+        label: Amp Access
+      - type: string
+        name: amp-analytics
+        label: Amp Analytics
+      - type: string
+        name: amp-accordion
+        label: Amp Accordion
+      - type: string
+        name: amp-ad
+        label: Amp Ad
+      - type: string
+        name: amp-anim
+        label: Amp Anim
+      - type: string
+        name: amp-animation
+        label: Amp Animation
+      - type: string
+        name: amp-apester-media
+        label: Amp Apester Media
+      - type: string
+        name: amp-app-banner
+        label: Amp App Banner
+      - type: string
+        name: amp-audio
+        label: Amp Audio
+      - type: string
+        name: amp-bind
+        label: Amp Bind
+      - type: string
+        name: amp-brid-player
+        label: Amp Brid Player
+      - type: string
+        name: amp-brightcove
+        label: Amp Brightcove
+      - type: string
+        name: amp-carousel
+        label: Amp Carousel
+      - type: string
+        name: amp-dailymotion
+        label: Amp Dailymotion
+      - type: string
+        name: amp-dynamic-css-classes
+        label: Amp Dynamic Css Classes
+      - type: string
+        name: amp-experiment
+        label: Amp Experiment
+      - type: string
+        name: amp-facebook
+        label: Amp Facebook
+      - type: string
+        name: amp-fit-text
+        label: Amp Fit Text
+      - type: string
+        name: amp-font
+        label: Amp Font
+      - type: string
+        name: amp-form
+        label: Amp Form
+      - type: string
+        name: amp-fx-flying-carpet
+        label: Amp Fx Flying Carpet
+      - type: string
+        name: amp-gfycat
+        label: Amp Gfycat
+      - type: string
+        name: amp-google-vrview-image
+        label: Amp Google Vrview Image
+      - type: string
+        name: amp-hulu
+        label: Amp Hulu
+      - type: string
+        name: amp-iframe
+        label: Amp Iframe
+      - type: string
+        name: amp-image-lightbox
+        label: Amp Image Lightbox
+      - type: string
+        name: amp-instagram
+        label: Amp Instagram
+      - type: string
+        name: amp-install-serviceworker
+        label: Amp Install Serviceworker
+      - type: string
+        name: amp-jwplayer
+        label: Amp Jwplayer
+      - type: string
+        name: amp-kaltura-player
+        label: Amp Kaltura Player
+      - type: string
+        name: amp-lightbox
+        label: Amp Lightbox
+      - type: string
+        name: amp-list
+        label: Amp List
+      - type: string
+        name: amp-live-list
+        label: Amp Live List
+      - type: string
+        name: amp-o2-player
+        label: Amp O 2 Player
+      - type: string
+        name: amp-ooyala-player
+        label: Amp Ooyala Player
+      - type: string
+        name: amp-pinterest
+        label: Amp Pinterest
+      - type: string
+        name: amp-reach-player
+        label: Amp Reach Player
+      - type: string
+        name: amp-reddit
+        label: Amp Reddit
+      - type: string
+        name: amp-selector
+        label: Amp Selector
+      - type: string
+        name: amp-sidebar
+        label: Amp Sidebar
+      - type: string
+        name: amp-social-share
+        label: Amp Social Share
+      - type: string
+        name: amp-soundcloud
+        label: Amp Soundcloud
+      - type: string
+        name: amp-springboard-player
+        label: Amp Springboard Player
+      - type: string
+        name: amp-sticky-ad
+        label: Amp Sticky Ad
+      - type: string
+        name: amp-twitter
+        label: Amp Twitter
+      - type: string
+        name: amp-user-notification
+        label: Amp User Notification
+      - type: string
+        name: amp-vimeo
+        label: Amp Vimeo
+      - type: string
+        name: amp-vine
+        label: Amp Vine
+      - type: string
+        name: amp-viz-vega
+        label: Amp Viz Vega
+      - type: string
+        name: amp-youtube
+        label: Amp Youtube
